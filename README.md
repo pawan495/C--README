@@ -15,7 +15,7 @@ This project is an easy way to generate a basic README MarkDown file. With your 
 
 ## Install
 
-![click here to check](video1.mov)
+![click here to check](video2.mov)
 
 Simply clone this repository and install the inquirer package as well as the fs package!
 
